@@ -346,3 +346,58 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+
+.header-pic {
+  margin-bottom: 2%;
+}
+
+.about-info p {
+  margin-bottom: 2%;
+}
+
+.about-info {
+  margin-bottom: 2%;
+  border-bottom: 1px dashed black;
+}
+#top {
+  display: flex;
+  margin-bottom: 6%;
+}
+
+#bottom {
+  display: flex;
+  margin-bottom: 5%;
+}
+
+#top img,
+#bottom img {
+  padding-bottom: 3%;
+}
+
+button {
+  font-size: 13px;
+  border-radius: 7px;
+  padding: 4px 15px;
+  margin-bottom: 5%;
+  margin-top: 3%;
+}
+button a {
+  text-decoration: none;
+  color: black;
+}
+
+.strategy,
+.places {
+  border-bottom: 1px dashed black;
+  margin-right: 20px;
+  margin-left: 5px;
+}
+.work,
+.collab {
+  border-bottom: 1px dashed black;
+  margin-left: 4px;
+}
+
+.end-text {
+  margin-bottom: 4%;
+}
